@@ -1,0 +1,14 @@
+{
+    "solana": {
+      "webSocketUrl": "wss://api.devnet.solana.com",
+      "programId": "9A6PzpNksiFsWHXSPPsFzFM9eKhmnBoFEHdQJedKjFMK"
+    },
+    "ethereum": {
+      "webSocketUrl": "wss://polygon-amoy.infura.io/ws/v3/aaddb048f69f40b18805fa4ae856cb17",
+      "contractAddress": "0x20b0C9D6B8c26CEe16C2A4544DCd37611676622C",
+      "abiFilePath": "../src/eth_contract_abi.json"
+    }
+  }
+
+  
+  
