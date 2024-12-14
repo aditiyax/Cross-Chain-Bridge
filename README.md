@@ -55,20 +55,4 @@ A simple and efficient **Cross-Chain Bridge** using a relayer mechanism to enabl
 
 ---
 
-## 🔧 Quick Start
-
-1. Deploy the smart contracts on Ethereum and Solana.
-2. Configure the relayer service to listen for events and execute transactions.
-3. Interact with the system via the provided interface or API.
-
----
-
-## 🌍 Future Enhancements
-
-- Support for additional blockchains.
-- Enhanced relayer decentralization.
-- Better liquidity management for direct swaps.
-
----
-
 Happy swapping! 🎉
